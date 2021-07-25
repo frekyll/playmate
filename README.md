@@ -11,6 +11,8 @@
 
 ## Shortcuts
 
+Create a new file: `Ctrl + Cmd + N`
+
 Open a file: `Cmd + T`
 
 Jump to a line: `Cmd + L`
@@ -26,6 +28,8 @@ Insert a newline below: `Cmd + Enter`
 Indent a selection: `Command + ]`
 
 Transform text into HTML tags: `Ctrl + Shift + ,`
+
+Show a Markdown preview: `Ctrl + Alt + Cmd + P`
 
 ### Custom Shortcuts
 To find a Bundle item, use the command `Ctrl + Cmd + T`. Then, select `Edit` to add a custom keybinding.
