@@ -30,5 +30,6 @@ Transform text into HTML tags: `Ctrl + Shift + ,`
 ### Custom Shortcuts
 To find a Bundle item, use the command `Ctrl + Cmd + T`. Then, select `Edit` to add a custom keybinding.
 
-**Sort Document Ascending**
+**Sort Document Ascending**:
+
 Sort the entire document or a selection alphabetically: `Ctrl + /`
